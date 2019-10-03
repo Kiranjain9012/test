@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is A831-6882
+
+ Directory of C:\Users\kiran\Desktop\Myproject
+
+03/10/2019  11:36 AM    <DIR>          .
+03/10/2019  11:36 AM    <DIR>          ..
+03/10/2019  11:36 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  859,753,877,504 bytes free
